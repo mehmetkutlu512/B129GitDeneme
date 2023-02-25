@@ -8,5 +8,6 @@ public class Deneme {
         //Github
         //Github 2. deneme
         //Mehmet Branchi deneme
+        //yeni kod bloğu
     }
 }
